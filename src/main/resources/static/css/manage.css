@@ -1,0 +1,43 @@
+.table_div {
+    width: 70%;
+    margin: 0 auto;
+    font-size: 12pt;
+    text-align: center;
+}
+
+.top_div {
+    margin-top: 10%;
+}
+
+.table_list {
+    width: 100%;
+    font-family: "新宋体";
+    font-size: 14pt;
+}
+
+.table_a {
+    color: cornflowerblue;
+    font-family: "楷体";
+}
+
+table tr {
+    height: 30px;
+}
+
+table tr th,
+td {
+    width: 200px;
+    text-align: center;
+}
+
+.down_div1 {
+    position: absolute;
+    top: 80%;
+    left: 50%;
+}
+
+.down_div2 {
+    position: absolute;
+    top: 80%;
+    left: 60%;
+}

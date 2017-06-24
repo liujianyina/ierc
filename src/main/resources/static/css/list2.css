@@ -1,0 +1,80 @@
+body {
+	font-family: "宋体";
+	text-align: center;
+	background-color: black;
+}
+
+header {
+	width: 1024px;
+	margin: 0 auto;
+	text-align: center;
+}
+
+hr {
+	width: 1024px;
+	margin: 0 auto;
+}
+
+a {
+	font-family: "楷体";
+	text-decoration: none;
+}
+
+.logo {
+	margin-right: 50%;
+	color: #00C0EF;
+	font-size: 14pt;
+	background-color: white;
+	width: 186px;
+}
+
+.title {
+	color: #0044CC;
+	font-family: "楷体";
+}
+
+.publish {
+	margin-left: 30%;
+}
+
+.main {
+	width: 1024px;
+	margin: 0 auto;
+}
+
+.content {
+	text-align: left;
+	margin: 10px;
+	font-family: "楷体";
+	font-size: 14pt;
+}
+
+.content ul {
+	list-style: none outside none;
+	overflow: hidden;
+	margin-right: 20px;
+}
+
+.content ul li {
+	list-style: none;
+	margin: 5px;
+	margin: 10px;
+}
+
+#display_sentence li {
+	float: left;
+	width: 200px;
+	text-align: center;
+}
+
+.video_div {
+	margin-top: 30px;
+}
+
+.show_title{
+	float: left;
+}
+
+h1,h3{
+	color: white;
+}
